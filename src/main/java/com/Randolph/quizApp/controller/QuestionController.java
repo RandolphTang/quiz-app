@@ -1,10 +1,9 @@
 package com.Randolph.quizApp.controller;
 
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import com.Randolph.quizApp.Question;
+import com.Randolph.quizApp.model.Question;
 import com.Randolph.quizApp.service.QuestionService;
 
 

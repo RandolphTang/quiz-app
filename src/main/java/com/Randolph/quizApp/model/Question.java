@@ -1,4 +1,4 @@
-package com.Randolph.quizApp;
+package com.Randolph.quizApp.model;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

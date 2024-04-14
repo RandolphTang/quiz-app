@@ -8,7 +8,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
-import com.Randolph.quizApp.Question;
+import com.Randolph.quizApp.model.Question;
 import com.Randolph.quizApp.dao.QuestionDao;
 
 @Service
